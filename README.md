@@ -14,3 +14,6 @@ src：源代码<br>
 bin：exe文件(win10)
 
 * E-mail：youtian95@qq.com
+
+* 截图<br>
+![image](https://github.com/youtian95/CurveSkeletons/blob/master/snapshot.png)
