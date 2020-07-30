@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/platforms-win10-brightgreen"> <b>
 <img src="https://img.shields.io/badge/license-GPL(3.0)-blue"> <br>
 
-提取骨架曲线的matlab程序<br>
+处理滞回曲线、提取骨架曲线的matlab程序<br>
 A matlab-based application to extract curve skeletons for structure engineering.
 
 
